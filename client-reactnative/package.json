@@ -1,5 +1,5 @@
 {
-  "name": "ethora",
+  "name": "ricksoup",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -197,7 +197,7 @@
       "node_modules/(?!@ngrx|(?!deck.gl)|ng-dynamic)"
     ],
     "setupFiles": [
-      "/Users/vineethnambiar/Reactnative/ethora/client-reactnative/jest.setup.js",
+      "/Users/vineethnambiar/Reactnative/ricksoup/client-reactnative/jest.setup.js",
       "./node_modules/react-native-gesture-handler/jestSetup.js"
     ]
   },

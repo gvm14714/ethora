@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00E356F31AD99517003FC87E /* ethoraTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* ethoraTests.m */; };
+		00E356F31AD99517003FC87E /* ricksoupTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* ricksoupTests.m */; };
 		047E1A3BCED54467B7E6D29F /* Montserrat-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BFC26D2AD41B46E696ACF42E /* Montserrat-Thin.ttf */; };
 		0607163529546DF5001C2821 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0607163429546DF5001C2821 /* StoreKit.framework */; };
 		06D563212AAEEAB4006B1EF6 /* token1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 06D5631D2AAEEAB4006B1EF6 /* token1.mp3 */; };
@@ -20,7 +20,7 @@
 		1B4EAD48A34A40768BD10B57 /* Poppins-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A2092757D77B4348942E807A /* Poppins-BoldItalic.ttf */; };
 		365261CB6CD7446888F6D075 /* Poppins-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0F7E1C0355BB4BDCAFC06485 /* Poppins-MediumItalic.ttf */; };
 		43BFDF7455794237B047F589 /* Montserrat-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3216D1D6D53A4D1A9944B2E6 /* Montserrat-Bold.ttf */; };
-		4BA488E969100084E2664E3E /* libPods-ethora-ethoraTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6C1D41390BAD2BBFABE5C05B /* libPods-ethora-ethoraTests.a */; };
+		4BA488E969100084E2664E3E /* libPods-ricksoup-ricksoupTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6C1D41390BAD2BBFABE5C05B /* libPods-ricksoup-ricksoupTests.a */; };
 		4C3E3F128E694D3282DEAA66 /* Poppins-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F5F00330032C4262B13D97D5 /* Poppins-Light.ttf */; };
 		4E1BA5F628AA476B0058948D /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E1BA5F528AA476B0058948D /* File.swift */; };
 		4E1BA5FA28AA49B70058948D /* RNWaveformManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E1BA5F928AA49B70058948D /* RNWaveformManager.m */; };
@@ -28,7 +28,7 @@
 		4E9915B92892AB9D00D9AD8A /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4E9915B82892AB9D00D9AD8A /* GoogleService-Info.plist */; };
 		4ED4F8D3DC1F45C59A2D8464 /* Poppins-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D4029F97A7674152B230129A /* Poppins-ExtraLight.ttf */; };
 		5D05FA05C0CA45D99BC9E631 /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 191E218D46F7477DB9C13C0E /* Poppins-Regular.ttf */; };
-		65070FFFB945BAFD098AA491 /* libPods-ethora.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A2B2951D9FA66FFBD04F4F0F /* libPods-ethora.a */; };
+		65070FFFB945BAFD098AA491 /* libPods-ricksoup.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A2B2951D9FA66FFBD04F4F0F /* libPods-ricksoup.a */; };
 		7716047D36CC47CB893BC0E9 /* Montserrat-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 44B4A8A76D354DEAAF4C793E /* Montserrat-Medium.ttf */; };
 		778C41483F4D437294668A18 /* Poppins-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2FD7E10BB4DD4EA3B443A095 /* Poppins-ExtraBoldItalic.ttf */; };
 		7A169BEAFDB1479EBBD40D34 /* Poppins-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 49DF4CB117C74D2981F08B4D /* Poppins-Italic.ttf */; };
@@ -42,12 +42,12 @@
 		AC197502F04A46C389237778 /* Montserrat-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 09EAD281C3B44C98B2126B5B /* Montserrat-Regular.ttf */; };
 		B00BB6115507414EA411F9B3 /* Poppins-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9DA1E801B9784F21873A9896 /* Poppins-Medium.ttf */; };
 		EB307FF813C3497DBB27A92F /* Poppins-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C6DD75FEF380400E878D53DF /* Poppins-Thin.ttf */; };
+		ECE2800DE0B6458AB66D06E4 /* VarelaRound-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0E6F8F83E2124F33AE3C02E3 /* VarelaRound-Regular.ttf */; };
 		EF9355139CA24D24B91C7CA6 /* Poppins-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EE3C221B2E4C4CE2AE447073 /* Poppins-SemiBoldItalic.ttf */; };
 		F201A05578354A74BCFC49DA /* Poppins-ExtraLightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C04E2F9CF3764A11B67A7264 /* Poppins-ExtraLightItalic.ttf */; };
 		F95A5B337F134A758DC95C53 /* Montserrat-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E9E8AE2A4AC8421EB7A640C2 /* Montserrat-Light.ttf */; };
 		FC76954AC23F40A28D5C15A7 /* Montserrat-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6141242CB5EB45829CF57FA6 /* Montserrat-SemiBold.ttf */; };
 		FE493C4F3D9242A08728CDC4 /* Poppins-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A4854E36F48F4770BE4A42F5 /* Poppins-Black.ttf */; };
-		ECE2800DE0B6458AB66D06E4 /* VarelaRound-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0E6F8F83E2124F33AE3C02E3 /* VarelaRound-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,54 +56,55 @@
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-			remoteInfo = ethora;
+			remoteInfo = ricksoup;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		00E356EE1AD99517003FC87E /* ethoraTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ethoraTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356EE1AD99517003FC87E /* ricksoupTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ricksoupTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00E356F21AD99517003FC87E /* ethoraTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ethoraTests.m; sourceTree = "<group>"; };
+		00E356F21AD99517003FC87E /* ricksoupTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ricksoupTests.m; sourceTree = "<group>"; };
 		0607163429546DF5001C2821 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
 		06D5631D2AAEEAB4006B1EF6 /* token1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = token1.mp3; path = ../android/app/src/main/res/raw/token1.mp3; sourceTree = "<group>"; };
 		06D5631E2AAEEAB4006B1EF6 /* token3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = token3.mp3; path = ../android/app/src/main/res/raw/token3.mp3; sourceTree = "<group>"; };
 		06D5631F2AAEEAB4006B1EF6 /* token5.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = token5.mp3; path = ../android/app/src/main/res/raw/token5.mp3; sourceTree = "<group>"; };
 		06D563202AAEEAB4006B1EF6 /* token7.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = token7.mp3; path = ../android/app/src/main/res/raw/token7.mp3; sourceTree = "<group>"; };
 		09EAD281C3B44C98B2126B5B /* Montserrat-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-Regular.ttf"; path = "../src/assets/fonts/Montserrat/Montserrat-Regular.ttf"; sourceTree = "<group>"; };
+		0E6F8F83E2124F33AE3C02E3 /* VarelaRound-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "VarelaRound-Regular.ttf"; path = "../src/assets/fonts/VarelaRound/VarelaRound-Regular.ttf"; sourceTree = "<group>"; };
 		0F7E1C0355BB4BDCAFC06485 /* Poppins-MediumItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-MediumItalic.ttf"; path = "../src/assets/fonts/Poppins-MediumItalic.ttf"; sourceTree = "<group>"; };
-		13B07F961A680F5B00A75B9A /* ethora.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ethora.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = ethora/AppDelegate.h; sourceTree = "<group>"; };
-		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = ethora/AppDelegate.mm; sourceTree = "<group>"; };
-		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = ethora/Images.xcassets; sourceTree = "<group>"; };
-		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = ethora/Info.plist; sourceTree = "<group>"; };
-		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = ethora/main.m; sourceTree = "<group>"; };
+		13B07F961A680F5B00A75B9A /* ricksoup.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ricksoup.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = ricksoup/AppDelegate.h; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = ricksoup/AppDelegate.mm; sourceTree = "<group>"; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = ricksoup/Images.xcassets; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = ricksoup/Info.plist; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = ricksoup/main.m; sourceTree = "<group>"; };
 		191E218D46F7477DB9C13C0E /* Poppins-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Regular.ttf"; path = "../src/assets/fonts/Poppins-Regular.ttf"; sourceTree = "<group>"; };
-		1E851163170F8C95E036AB59 /* Pods-ethora.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ethora.debug.xcconfig"; path = "Target Support Files/Pods-ethora/Pods-ethora.debug.xcconfig"; sourceTree = "<group>"; };
+		1E851163170F8C95E036AB59 /* Pods-ricksoup.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ricksoup.debug.xcconfig"; path = "Target Support Files/Pods-ricksoup/Pods-ricksoup.debug.xcconfig"; sourceTree = "<group>"; };
 		2FD7E10BB4DD4EA3B443A095 /* Poppins-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-ExtraBoldItalic.ttf"; path = "../src/assets/fonts/Poppins-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
 		3216D1D6D53A4D1A9944B2E6 /* Montserrat-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-Bold.ttf"; path = "../src/assets/fonts/Montserrat/Montserrat-Bold.ttf"; sourceTree = "<group>"; };
 		393A898785E14C36AA3417C5 /* Poppins-LightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-LightItalic.ttf"; path = "../src/assets/fonts/Poppins-LightItalic.ttf"; sourceTree = "<group>"; };
 		44B4A8A76D354DEAAF4C793E /* Montserrat-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-Medium.ttf"; path = "../src/assets/fonts/Montserrat/Montserrat-Medium.ttf"; sourceTree = "<group>"; };
 		49DF4CB117C74D2981F08B4D /* Poppins-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Italic.ttf"; path = "../src/assets/fonts/Poppins-Italic.ttf"; sourceTree = "<group>"; };
-		4E1BA5F428AA476A0058948D /* ethora-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ethora-Bridging-Header.h"; sourceTree = "<group>"; };
+		4E1BA5F428AA476A0058948D /* ricksoup-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ricksoup-Bridging-Header.h"; sourceTree = "<group>"; };
 		4E1BA5F528AA476B0058948D /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
 		4E1BA5F828AA49030058948D /* RTCWaveformModule.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RTCWaveformModule.h; sourceTree = "<group>"; };
 		4E1BA5F928AA49B70058948D /* RNWaveformManager.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RNWaveformManager.m; sourceTree = "<group>"; };
 		4E1BA5FB28AA4A1D0058948D /* RNWaweform.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RNWaweform.swift; sourceTree = "<group>"; };
-		4E7B0E91289B95F30013098F /* ethora.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; name = ethora.entitlements; path = ethora/ethora.entitlements; sourceTree = "<group>"; };
-		4E9915B82892AB9D00D9AD8A /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "ethora/GoogleService-Info.plist"; sourceTree = "<group>"; };
-		52B025BF3A423BEB96BD9354 /* Pods-ethora-ethoraTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ethora-ethoraTests.debug.xcconfig"; path = "Target Support Files/Pods-ethora-ethoraTests/Pods-ethora-ethoraTests.debug.xcconfig"; sourceTree = "<group>"; };
+		4E7B0E91289B95F30013098F /* ricksoup.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; name = ricksoup.entitlements; path = ricksoup/ricksoup.entitlements; sourceTree = "<group>"; };
+		4E9915B82892AB9D00D9AD8A /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "ricksoup/GoogleService-Info.plist"; sourceTree = "<group>"; };
+		52B025BF3A423BEB96BD9354 /* Pods-ricksoup-ricksoupTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ricksoup-ricksoupTests.debug.xcconfig"; path = "Target Support Files/Pods-ricksoup-ricksoupTests/Pods-ricksoup-ricksoupTests.debug.xcconfig"; sourceTree = "<group>"; };
 		6141242CB5EB45829CF57FA6 /* Montserrat-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-SemiBold.ttf"; path = "../src/assets/fonts/Montserrat/Montserrat-SemiBold.ttf"; sourceTree = "<group>"; };
-		6C1D41390BAD2BBFABE5C05B /* libPods-ethora-ethoraTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ethora-ethoraTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = ethora/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		8687E0CA159FB64526F569F2 /* Pods-ethora-ethoraTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ethora-ethoraTests.release.xcconfig"; path = "Target Support Files/Pods-ethora-ethoraTests/Pods-ethora-ethoraTests.release.xcconfig"; sourceTree = "<group>"; };
+		6C1D41390BAD2BBFABE5C05B /* libPods-ricksoup-ricksoupTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ricksoup-ricksoupTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = ricksoup/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		8687E0CA159FB64526F569F2 /* Pods-ricksoup-ricksoupTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ricksoup-ricksoupTests.release.xcconfig"; path = "Target Support Files/Pods-ricksoup-ricksoupTests/Pods-ricksoup-ricksoupTests.release.xcconfig"; sourceTree = "<group>"; };
 		93FB58F9890546A09ECE9970 /* Poppins-BlackItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-BlackItalic.ttf"; path = "../src/assets/fonts/Poppins-BlackItalic.ttf"; sourceTree = "<group>"; };
 		9CAE50471A8540D3AF53305B /* Poppins-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Bold.ttf"; path = "../src/assets/fonts/Poppins-Bold.ttf"; sourceTree = "<group>"; };
 		9DA1E801B9784F21873A9896 /* Poppins-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Medium.ttf"; path = "../src/assets/fonts/Poppins-Medium.ttf"; sourceTree = "<group>"; };
 		A07C361DDFEA4872ACB5C6D3 /* Poppins-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-ExtraBold.ttf"; path = "../src/assets/fonts/Poppins-ExtraBold.ttf"; sourceTree = "<group>"; };
 		A2092757D77B4348942E807A /* Poppins-BoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-BoldItalic.ttf"; path = "../src/assets/fonts/Poppins-BoldItalic.ttf"; sourceTree = "<group>"; };
-		A2B2951D9FA66FFBD04F4F0F /* libPods-ethora.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ethora.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A2B2951D9FA66FFBD04F4F0F /* libPods-ricksoup.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ricksoup.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A4854E36F48F4770BE4A42F5 /* Poppins-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Black.ttf"; path = "../src/assets/fonts/Poppins-Black.ttf"; sourceTree = "<group>"; };
-		ABFBD90F85DF2B36A7037FCF /* Pods-ethora.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ethora.release.xcconfig"; path = "Target Support Files/Pods-ethora/Pods-ethora.release.xcconfig"; sourceTree = "<group>"; };
+		ABFBD90F85DF2B36A7037FCF /* Pods-ricksoup.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ricksoup.release.xcconfig"; path = "Target Support Files/Pods-ricksoup/Pods-ricksoup.release.xcconfig"; sourceTree = "<group>"; };
 		B329832A12BF460FB386EC9D /* Poppins-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-SemiBold.ttf"; path = "../src/assets/fonts/Poppins-SemiBold.ttf"; sourceTree = "<group>"; };
 		BFC26D2AD41B46E696ACF42E /* Montserrat-Thin.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-Thin.ttf"; path = "../src/assets/fonts/Montserrat/Montserrat-Thin.ttf"; sourceTree = "<group>"; };
 		C04E2F9CF3764A11B67A7264 /* Poppins-ExtraLightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-ExtraLightItalic.ttf"; path = "../src/assets/fonts/Poppins-ExtraLightItalic.ttf"; sourceTree = "<group>"; };
@@ -114,7 +115,6 @@
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		EE3C221B2E4C4CE2AE447073 /* Poppins-SemiBoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-SemiBoldItalic.ttf"; path = "../src/assets/fonts/Poppins-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
 		F5F00330032C4262B13D97D5 /* Poppins-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Light.ttf"; path = "../src/assets/fonts/Poppins-Light.ttf"; sourceTree = "<group>"; };
-		0E6F8F83E2124F33AE3C02E3 /* VarelaRound-Regular.ttf */ = {isa = PBXFileReference; name = "VarelaRound-Regular.ttf"; path = "../src/assets/fonts/VarelaRound/VarelaRound-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,7 +122,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4BA488E969100084E2664E3E /* libPods-ethora-ethoraTests.a in Frameworks */,
+				4BA488E969100084E2664E3E /* libPods-ricksoup-ricksoupTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -131,20 +131,20 @@
 			buildActionMask = 2147483647;
 			files = (
 				0607163529546DF5001C2821 /* StoreKit.framework in Frameworks */,
-				65070FFFB945BAFD098AA491 /* libPods-ethora.a in Frameworks */,
+				65070FFFB945BAFD098AA491 /* libPods-ricksoup.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00E356EF1AD99517003FC87E /* ethoraTests */ = {
+		00E356EF1AD99517003FC87E /* ricksoupTests */ = {
 			isa = PBXGroup;
 			children = (
-				00E356F21AD99517003FC87E /* ethoraTests.m */,
+				00E356F21AD99517003FC87E /* ricksoupTests.m */,
 				00E356F01AD99517003FC87E /* Supporting Files */,
 			);
-			path = ethoraTests;
+			path = ricksoupTests;
 			sourceTree = "<group>";
 		};
 		00E356F01AD99517003FC87E /* Supporting Files */ = {
@@ -155,10 +155,10 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		13B07FAE1A68108700A75B9A /* ethora */ = {
+		13B07FAE1A68108700A75B9A /* ricksoup */ = {
 			isa = PBXGroup;
 			children = (
-				4E7B0E91289B95F30013098F /* ethora.entitlements */,
+				4E7B0E91289B95F30013098F /* ricksoup.entitlements */,
 				4E9915B82892AB9D00D9AD8A /* GoogleService-Info.plist */,
 				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
 				06D5631D2AAEEAB4006B1EF6 /* token1.mp3 */,
@@ -171,7 +171,7 @@
 				81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */,
 				13B07FB71A68108700A75B9A /* main.m */,
 			);
-			name = ethora;
+			name = ricksoup;
 			sourceTree = "<group>";
 		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
@@ -179,8 +179,8 @@
 			children = (
 				0607163429546DF5001C2821 /* StoreKit.framework */,
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
-				A2B2951D9FA66FFBD04F4F0F /* libPods-ethora.a */,
-				6C1D41390BAD2BBFABE5C05B /* libPods-ethora-ethoraTests.a */,
+				A2B2951D9FA66FFBD04F4F0F /* libPods-ricksoup.a */,
+				6C1D41390BAD2BBFABE5C05B /* libPods-ricksoup-ricksoupTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -231,14 +231,14 @@
 				4E1BA5F928AA49B70058948D /* RNWaveformManager.m */,
 				4E1BA5F828AA49030058948D /* RTCWaveformModule.h */,
 				4E1BA5F528AA476B0058948D /* File.swift */,
-				13B07FAE1A68108700A75B9A /* ethora */,
+				13B07FAE1A68108700A75B9A /* ricksoup */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
-				00E356EF1AD99517003FC87E /* ethoraTests */,
+				00E356EF1AD99517003FC87E /* ricksoupTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
 				4366ADE360C5436A9F594BAE /* Resources */,
-				4E1BA5F428AA476A0058948D /* ethora-Bridging-Header.h */,
+				4E1BA5F428AA476A0058948D /* ricksoup-Bridging-Header.h */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -248,8 +248,8 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* ethora.app */,
-				00E356EE1AD99517003FC87E /* ethoraTests.xctest */,
+				13B07F961A680F5B00A75B9A /* ricksoup.app */,
+				00E356EE1AD99517003FC87E /* ricksoupTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -257,10 +257,10 @@
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				1E851163170F8C95E036AB59 /* Pods-ethora.debug.xcconfig */,
-				ABFBD90F85DF2B36A7037FCF /* Pods-ethora.release.xcconfig */,
-				52B025BF3A423BEB96BD9354 /* Pods-ethora-ethoraTests.debug.xcconfig */,
-				8687E0CA159FB64526F569F2 /* Pods-ethora-ethoraTests.release.xcconfig */,
+				1E851163170F8C95E036AB59 /* Pods-ricksoup.debug.xcconfig */,
+				ABFBD90F85DF2B36A7037FCF /* Pods-ricksoup.release.xcconfig */,
+				52B025BF3A423BEB96BD9354 /* Pods-ricksoup-ricksoupTests.debug.xcconfig */,
+				8687E0CA159FB64526F569F2 /* Pods-ricksoup-ricksoupTests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -268,9 +268,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00E356ED1AD99517003FC87E /* ethoraTests */ = {
+		00E356ED1AD99517003FC87E /* ricksoupTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "ethoraTests" */;
+			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "ricksoupTests" */;
 			buildPhases = (
 				A5517125444E6A03643F6843 /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
@@ -284,14 +284,14 @@
 			dependencies = (
 				00E356F51AD99517003FC87E /* PBXTargetDependency */,
 			);
-			name = ethoraTests;
-			productName = ethoraTests;
-			productReference = 00E356EE1AD99517003FC87E /* ethoraTests.xctest */;
+			name = ricksoupTests;
+			productName = ricksoupTests;
+			productReference = 00E356EE1AD99517003FC87E /* ricksoupTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		13B07F861A680F5B00A75B9A /* ethora */ = {
+		13B07F861A680F5B00A75B9A /* ricksoup */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "ethora" */;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "ricksoup" */;
 			buildPhases = (
 				19943B4B74BB4272DD19A41F /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
@@ -307,9 +307,9 @@
 			);
 			dependencies = (
 			);
-			name = ethora;
-			productName = ethora;
-			productReference = 13B07F961A680F5B00A75B9A /* ethora.app */;
+			name = ricksoup;
+			productName = ricksoup;
+			productReference = 13B07F961A680F5B00A75B9A /* ricksoup.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -329,7 +329,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "ethora" */;
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "ricksoup" */;
 			compatibilityVersion = "Xcode 12.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -342,8 +342,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13B07F861A680F5B00A75B9A /* ethora */,
-				00E356ED1AD99517003FC87E /* ethoraTests */,
+				13B07F861A680F5B00A75B9A /* ricksoup */,
+				00E356ED1AD99517003FC87E /* ricksoupTests */,
 			);
 		};
 /* End PBXProject section */
@@ -427,7 +427,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-ethora-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-ricksoup-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -440,15 +440,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-ethora/Pods-ethora-resources-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-ricksoup/Pods-ricksoup-resources-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-ethora/Pods-ethora-resources-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-ricksoup/Pods-ricksoup-resources-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ethora/Pods-ethora-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ricksoup/Pods-ricksoup-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		786377CDD7BD5139A5F5AC87 /* [CP] Embed Pods Frameworks */ = {
@@ -457,15 +457,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-ethora-ethoraTests/Pods-ethora-ethoraTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-ricksoup-ricksoupTests/Pods-ricksoup-ricksoupTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-ethora-ethoraTests/Pods-ethora-ethoraTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-ricksoup-ricksoupTests/Pods-ricksoup-ricksoupTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ethora-ethoraTests/Pods-ethora-ethoraTests-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ricksoup-ricksoupTests/Pods-ricksoup-ricksoupTests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		8F0D5C496EC59F0637C69EB7 /* [CP-User] [RNFB] Core Configuration */ = {
@@ -496,7 +496,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-ethora-ethoraTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-ricksoup-ricksoupTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -509,15 +509,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-ethora/Pods-ethora-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-ricksoup/Pods-ricksoup-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-ethora/Pods-ethora-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-ricksoup/Pods-ricksoup-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ethora/Pods-ethora-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ricksoup/Pods-ricksoup-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		EDA03623F94999F1FA8F31BF /* [CP] Copy Pods Resources */ = {
@@ -526,15 +526,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-ethora-ethoraTests/Pods-ethora-ethoraTests-resources-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-ricksoup-ricksoupTests/Pods-ricksoup-ricksoupTests-resources-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-ethora-ethoraTests/Pods-ethora-ethoraTests-resources-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-ricksoup-ricksoupTests/Pods-ricksoup-ricksoupTests-resources-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ethora-ethoraTests/Pods-ethora-ethoraTests-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ricksoup-ricksoupTests/Pods-ricksoup-ricksoupTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		FD10A7F022414F080027D42C /* Start Packager */ = {
@@ -563,7 +563,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00E356F31AD99517003FC87E /* ethoraTests.m in Sources */,
+				00E356F31AD99517003FC87E /* ricksoupTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -584,7 +584,7 @@
 /* Begin PBXTargetDependency section */
 		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 13B07F861A680F5B00A75B9A /* ethora */;
+			target = 13B07F861A680F5B00A75B9A /* ricksoup */;
 			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -592,7 +592,7 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 52B025BF3A423BEB96BD9354 /* Pods-ethora-ethoraTests.debug.xcconfig */;
+			baseConfigurationReference = 52B025BF3A423BEB96BD9354 /* Pods-ricksoup-ricksoupTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -600,7 +600,7 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = ethoraTests/Info.plist;
+				INFOPLIST_FILE = ricksoupTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -612,20 +612,20 @@
 					"-lc++",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.ricksoup;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ethora.app/ethora";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ricksoup.app/ricksoup";
 			};
 			name = Debug;
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8687E0CA159FB64526F569F2 /* Pods-ethora-ethoraTests.release.xcconfig */;
+			baseConfigurationReference = 8687E0CA159FB64526F569F2 /* Pods-ricksoup-ricksoupTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
-				INFOPLIST_FILE = ethoraTests/Info.plist;
+				INFOPLIST_FILE = ricksoupTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -637,24 +637,26 @@
 					"-lc++",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.ricksoup;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ethora.app/ethora";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ricksoup.app/ricksoup";
 			};
 			name = Release;
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1E851163170F8C95E036AB59 /* Pods-ethora.debug.xcconfig */;
+			baseConfigurationReference = 1E851163170F8C95E036AB59 /* Pods-ricksoup.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CLANG_ENABLE_MODULES = YES;
-				CODE_SIGN_ENTITLEMENTS = ethora/ethora.entitlements;
+				CODE_SIGN_ENTITLEMENTS = ricksoup/ricksoup.entitlements;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 822G3N7CA5;
 				ENABLE_BITCODE = NO;
-				INFOPLIST_FILE = ethora/Info.plist;
+				INFOPLIST_FILE = ricksoup/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = ricksoup;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -665,9 +667,9 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.ethora;
-				PRODUCT_NAME = ethora;
-				SWIFT_OBJC_BRIDGING_HEADER = "ethora-Bridging-Header.h";
+				PRODUCT_BUNDLE_IDENTIFIER = com.ricksoup;
+				PRODUCT_NAME = ricksoup;
+				SWIFT_OBJC_BRIDGING_HEADER = "ricksoup-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -676,15 +678,17 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = ABFBD90F85DF2B36A7037FCF /* Pods-ethora.release.xcconfig */;
+			baseConfigurationReference = ABFBD90F85DF2B36A7037FCF /* Pods-ricksoup.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CLANG_ENABLE_MODULES = YES;
-				CODE_SIGN_ENTITLEMENTS = ethora/ethora.entitlements;
+				CODE_SIGN_ENTITLEMENTS = ricksoup/ricksoup.entitlements;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 822G3N7CA5;
-				INFOPLIST_FILE = ethora/Info.plist;
+				INFOPLIST_FILE = ricksoup/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = ricksoup;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -695,9 +699,9 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.ethora;
-				PRODUCT_NAME = ethora;
-				SWIFT_OBJC_BRIDGING_HEADER = "ethora-Bridging-Header.h";
+				PRODUCT_BUNDLE_IDENTIFIER = com.ricksoup;
+				PRODUCT_NAME = ricksoup;
+				SWIFT_OBJC_BRIDGING_HEADER = "ricksoup-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -841,7 +845,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "ethoraTests" */ = {
+		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "ricksoupTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00E356F61AD99517003FC87E /* Debug */,
@@ -850,7 +854,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "ethora" */ = {
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "ricksoup" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
@@ -859,7 +863,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "ethora" */ = {
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "ricksoup" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,

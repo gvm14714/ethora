@@ -1,4 +1,4 @@
-package com.ethora.newarchitecture;
+package com.ricksoup.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.EmptyReactNativeConfig;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.ethora.BuildConfig;
-import com.ethora.newarchitecture.components.MainComponentsRegistry;
-import com.ethora.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.ricksoup.BuildConfig;
+import com.ricksoup.newarchitecture.components.MainComponentsRegistry;
+import com.ricksoup.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 

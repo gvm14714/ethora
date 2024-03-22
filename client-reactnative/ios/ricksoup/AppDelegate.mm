@@ -49,7 +49,7 @@
   bridge.surfacePresenter = _bridgeAdapter.surfacePresenter;
 #endif
 
-  UIView *rootView = RCTAppSetupDefaultRootView(bridge, @"ethora", nil);
+  UIView *rootView = RCTAppSetupDefaultRootView(bridge, @"ricksoup", nil);
   [FIRApp configure];
 
   if (@available(iOS 13.0, *)) {
